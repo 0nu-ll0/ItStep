@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\projects\c++\itstep\practicework\01.taskone\project\main.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+c:\projects\c++\itstep\practicework\01.taskone\project\main.cpp(145): warning C4018: <: несоответствие типов со знаком и без знака
+c:\projects\c++\itstep\practicework\01.taskone\project\main.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
+c:\projects\c++\itstep\practicework\01.taskone\project\main.cpp(149): warning C4018: <: несоответствие типов со знаком и без знака
+c:\projects\c++\itstep\practicework\01.taskone\project\main.cpp(152): warning C4018: <: несоответствие типов со знаком и без знака
+  LabWorkOne.vcxproj -> C:\Projects\C++\ItStep\PracticeWork\01.TaskOne\Project\LabWorkOne\Debug\LabWorkOne.exe
+  LabWorkOne.vcxproj -> C:\Projects\C++\ItStep\PracticeWork\01.TaskOne\Project\LabWorkOne\Debug\LabWorkOne.pdb (Partial PDB)
