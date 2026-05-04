@@ -1,0 +1,14 @@
+﻿  vector.cpp
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(17,49): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(17,29): warning C4267: инициализация: преобразование из "size_t" в "const unsigned int"; возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(18,26): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(29,50): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(30,21): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(175,41): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(262,48): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(262,39): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(262,30): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(553,80): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(553,63): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\{projects}\{c++}\{vector}\{executables}\vector.cpp(553,46): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+  {vector}.vcxproj -> C:\{projects}\{c++}\{vector}\x64\Debug\{vector}.exe
