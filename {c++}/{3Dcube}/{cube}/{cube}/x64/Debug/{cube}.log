@@ -1,0 +1,67 @@
+﻿  cube.cpp
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(28,51): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(28,57): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(28,63): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(49,52): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(49,58): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(49,64): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(200,58): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(223,63): warning C4244: =: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=unsigned int
+          ]
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(224,64): warning C4244: =: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=unsigned int
+          ]
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(228,69): warning C4244: =: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=unsigned int
+          ]
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(229,70): warning C4244: =: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=unsigned int
+          ]
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(235,64): warning C4244: =: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=unsigned int
+          ]
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(236,65): warning C4244: =: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=unsigned int
+          ]
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(386,39): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(390,40): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(392,40): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\{projects}\{c++}\{3Dcube}\{cube}\{cube}\cube.cpp(241): warning C4172: возвращение адреса локальной или временной переменной : coordinates_edges
+  {cube}.vcxproj -> C:\{projects}\{c++}\{3Dcube}\{cube}\x64\Debug\{cube}.exe
